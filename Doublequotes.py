@@ -1,0 +1,6 @@
+print("This will work!")
+print('This will also work!')
+print('This will wont work!')
+print('This work will be great!')
+print('This will be something good!')
+print('This will be something bad!')

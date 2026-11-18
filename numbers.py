@@ -1,0 +1,7 @@
+print(3)
+print(358)
+print(50000)
+print(112259)
+print(25)
+print(10000)
+print(70000)
